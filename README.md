@@ -1,4 +1,4 @@
-Mimesis' Namespace Generator
+Mimesis Namespace Generator
 ===================================
 This project is a namespace generator that can create large and realistic hierarchical namespaces. This tool preserves the following distributions (as given by the configuration file used):  directories at each depth, subdirectories per directory, files at each depth, files per directory, file sizes, file creation stamps. Sample configurations based on a large Hadoop (HDFS) cluster is provided, in addition to several configurations based on statistics collected at several HPC deployments. More information is available in "Metadata Traces and Workload Models for Evaluating Big Storage Systems",  Cristina Abad, Huon Luu, Nathan Roberts, Kihwal Lee, Yi Lu, Roy Campbell, IEEE/ACM International Conference on Utility and Cloud Computing (UCC), 2012. Available at: https://wiki.engr.illinois.edu/download/attachments/207290740/cabad_UCC_2012.pdf
 
@@ -81,6 +81,6 @@ Publications that use namespaces generated with Mimesis should properly cite it 
   Metadata Traces and Workload Models for Evaluating Big Storage Systems
   Cristina Abad, Huon Luu, Nathan Roberts, Kihwal Lee, Yi Lu, Roy Campbell
   IEEE/ACM International Conference on Utility and Cloud Computing (UCC), 2012.
-  doi>10.1109/UCC.2012.27 
+  doi>10.1109/UCC.2012.27, available at: https://github.com/s-noghabi/Mimesis-Namespace-Generator
 
 
