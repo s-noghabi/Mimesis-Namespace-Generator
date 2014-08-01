@@ -59,7 +59,7 @@ Output:
   NOTE: Path /0 corresponds to the root of the namespace hierarchy
 
   A sample namespace generated with the default configuration file has been
-  provided too, in "output_file.txt".
+  provided too, in `bin/output_file.txt`.
 
   Also, the statistics of the distributions create by this tool are written 
   in files under the output folder. Each file contains the CDF of a distribution
